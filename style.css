@@ -35,11 +35,13 @@ input
 #output-boxarea
 {
     margin:auto;
+    text-align: center;
 }
 #check-number{
     display: block;
     margin: auto;
     margin-top: 1rem;
+    margin-bottom: 1rem;
     background: transparent;
     color: var(--primary-green);
     border-color: var(--primary-green);
