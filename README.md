@@ -1,7 +1,11 @@
-# student portfolio
+# Priyanshu-Neog-mark11
+### Lucky Birthday Checker!
+A website which checks whether your birthday is your lucky number or not!
 
+# How to use:
+ Enter your Birthday and lucky number and press *Enter*
 
-It is coming up live soon 
-For now I know 
-1. Java Script
-2. HTML
+# Programming Language:
+ - html
+ - css 
+ - javascript 
